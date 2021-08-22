@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="nomespah",
-    version="0.0.1",
+    version="0.0.2",
     author="Pedro",
     author_email="pjgs.sousa@gmail.com",
     description="A name generator for tests and experiments",
