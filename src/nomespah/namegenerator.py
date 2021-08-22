@@ -3,9 +3,9 @@ import sys
 import argparse
 from time import time as now
 
-from alphabets import GREEK
-from names import NAMES
-from adjectives import ADJECTIVES
+from .alphabets import GREEK
+from .names import NAMES
+from .adjectives import ADJECTIVES
 
 
 def get_full_name(sep='_'):
